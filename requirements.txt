@@ -12,7 +12,7 @@ SQLAlchemy==1.2.1
 Flask-SQLAlchemy==2.3.2
 Flask-RESTful==0.3.6
 Flask-Restless==0.17.0
-Jinja2==2.10
+Jinja2==2.11.3
 MarkupSafe==1.0
 numpy==1.15.2
 pycparser==2.19
