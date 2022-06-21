@@ -14,7 +14,7 @@ Flask-RESTful==0.3.6
 Flask-Restless==0.17.0
 Jinja2==2.10
 MarkupSafe==1.0
-numpy==1.15.2
+numpy==1.22.0
 pycparser==2.19
 scikit-learn==0.20.0
 scipy==1.1.0
